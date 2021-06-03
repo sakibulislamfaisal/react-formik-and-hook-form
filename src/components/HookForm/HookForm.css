@@ -1,0 +1,35 @@
+/* .signup {
+  background-color: #111a28;
+  color: #fff;
+
+} */
+
+.signup .form-control {
+  max-width: 410px;
+  margin: 0 auto;
+  border: none;
+  padding: 19px !important;
+  border: 2px solid #00cf5d;
+  border-radius: 20px;
+}
+.signup .form-group {
+  margin-top: 30px;
+}
+.signup .sign-btn {
+  max-width: 410px;
+  margin: 0 auto;
+  border-radius: 20px;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.error {
+  color: red !important;
+  margin-left: 360px;
+  margin-bottom: 0px;
+}
+.account label {
+  color: #00cf5d;
+  cursor: pointer;
+  font-size: 18px;
+}

@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.error {
+  color: red !important;
+}
+.form-control {
+  width: 400px !important;
+  padding: 6px 12px;
+}
